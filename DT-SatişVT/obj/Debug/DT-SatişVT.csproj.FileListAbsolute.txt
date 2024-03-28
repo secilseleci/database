@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\bin\Debug\DT-SatişVT.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\bin\Debug\DT-SatişVT.exe
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\bin\Debug\DT-SatişVT.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT-SatişVT.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT_SatişVT.Form1.resources
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT_SatişVT.Kategori.resources
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT_SatişVT.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT-SatişVT.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT-SatişVT.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT-SatişVT.exe
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT-SatişVT.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\DT-SatişVT\DT-SatişVT\obj\Debug\DT_SatişVT.Musteri.resources
